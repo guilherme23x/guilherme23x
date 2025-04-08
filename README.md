@@ -1,8 +1,11 @@
-<h2 align="left">My name is Guilherme and i'm a Developer Front End, from SP, Brazil</h2>
 
-###
+<div align=center>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Guilherme,+Front-End+Developer)](https://git.io/typing-svg)
+  
+</div>
 
-<h1 align="left">👋 Hi there, welcome to my Github profile</h1>
+<h1 align="center">👋 Hi there, welcome to my Github profile</h1>
 
 ###
 
