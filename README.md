@@ -23,10 +23,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme23x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150"  />
- 
+<div align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilherme23x&radius=16&theme=react&area=true&order=5" height="300"  />
 </div>
+<div align="center"> 
+<img src="https://raw.githubusercontent.com/guilherme23x/guilherme23x/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
 
 ###
